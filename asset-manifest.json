@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Lumel-Assesment/static/css/main.bdb28ac7.css",
+    "main.js": "/Lumel-Assesment/static/js/main.655bb1cf.js",
+    "static/js/453.1589b360.chunk.js": "/Lumel-Assesment/static/js/453.1589b360.chunk.js",
+    "index.html": "/Lumel-Assesment/index.html",
+    "main.bdb28ac7.css.map": "/Lumel-Assesment/static/css/main.bdb28ac7.css.map",
+    "main.655bb1cf.js.map": "/Lumel-Assesment/static/js/main.655bb1cf.js.map",
+    "453.1589b360.chunk.js.map": "/Lumel-Assesment/static/js/453.1589b360.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdb28ac7.css",
+    "static/js/main.655bb1cf.js"
+  ]
+}
